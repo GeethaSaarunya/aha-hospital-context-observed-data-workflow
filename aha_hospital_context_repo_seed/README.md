@@ -2,7 +2,7 @@
 
 This repository is the public code-and-metadata companion for the paper:
 
-**Making Hospital Context Visible to Support Learning Health Systems: A Transparent Observed-Data Workflow Using Linked National Survey Data**
+**Making Hospital Context Visible to Support Learning Health Systems for Acute Care: A Transparent Observed-Data Workflow Using Linked National Survey Data**
 
 ## What this repository contains
 
