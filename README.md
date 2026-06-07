@@ -1,8 +1,12 @@
-# Making Hospital Context Visible to Support Learning Health Systems
+# Making Hospital Context Visible to Support Learning Health Systems:
 
 This repository is the public code-and-metadata companion for the paper:
 
 **Making Hospital Context Visible to Support Learning Health Systems for Acute Care: A Transparent Observed-Data Workflow Using Linked National Survey Data**
+
+## Archiving and citation
+
+This repository is prepared for Zenodo archiving. Public releases contain code, metadata, mock templates, and non-disclosive manuscript outputs only. Proprietary AHA source data and restricted row-level derived datasets are not redistributed.
 
 ## What this repository contains
 
