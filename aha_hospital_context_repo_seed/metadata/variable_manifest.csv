@@ -1,0 +1,344 @@
+var,source_dataset,n_total,n_observed,pct_observed,n_positive,n_zero,status,drop_reason,included_in_stable_set,analysis_role,notes
+ACARDSYS,ASDB,6166,3736,0.605903340901719,815,2921,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ACLABHOS,ASDB,6166,3736,0.605903340901719,1521,2215,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ACOPCT,ASDB,6166,858,0.139150178397665,55,87,dropped,low_obs;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+ACUSYS,ASDB,6166,3736,0.605903340901719,299,3437,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ADTCSYS,ASDB,6166,3736,0.605903340901719,985,2751,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ADTESYS,ASDB,6166,3736,0.605903340901719,873,2863,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ADTRTSYS,ASDB,6166,3736,0.605903340901719,829,2907,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+AIDSSSYS,ASDB,6166,3736,0.605903340901719,810,2926,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+AIRBSYS,ASDB,6166,3736,0.605903340901719,548,3188,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ALCHSYS,ASDB,6166,3736,0.605903340901719,638,3098,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ALCOPSYS,ASDB,6166,3736,0.605903340901719,803,2933,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ALCPDSYS,ASDB,6166,3736,0.605903340901719,317,3419,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ALCPRSYS,ASDB,6166,3736,0.605903340901719,438,3298,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ALZSYS,ASDB,6166,3736,0.605903340901719,558,3178,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+AMBASYS,ASDB,6166,3736,0.605903340901719,525,3211,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+AMBSSYS,ASDB,6166,3736,0.605903340901719,832,2904,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+AMBSYS,ASDB,6166,3736,0.605903340901719,586,3150,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+APED,ASDB,6166,2501,0.405611417450535,596,1905,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ARTHCSYS,ASDB,6166,3736,0.605903340901719,551,3185,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ASSTLSYS,ASDB,6166,3736,0.605903340901719,294,3442,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+AUXSYS,ASDB,6166,3736,0.605903340901719,680,3056,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+BDPEDCP,ASDB,6166,375,0.060817385663315,203,172,dropped,low_obs;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+BDPEDMA,ASDB,6166,375,0.060817385663315,83,292,dropped,low_obs;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+BDPEDMD,ASDB,6166,375,0.060817385663315,24,351,dropped,low_obs;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+BDPEDTM,ASDB,6166,375,0.060817385663315,224,151,dropped,low_obs;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+BEAMSYS,ASDB,6166,3736,0.605903340901719,764,2972,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+BIOSYS,ASDB,6166,3736,0.605903340901719,205,3531,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+BLDOSYS,ASDB,6166,3736,0.605903340901719,315,3421,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+BNDPCT,ASDB,6166,545,0.0883879338306844,203,256,dropped,low_obs;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+BRADHOS,ASDB,6166,3736,0.605903340901719,1769,1967,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+BRNSYS,ASDB,6166,3736,0.605903340901719,328,3408,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+BROOMSYS,ASDB,6166,3736,0.605903340901719,784,2952,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+BWHTSYS,ASDB,6166,3736,0.605903340901719,962,2774,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+CAOSSYS,ASDB,6166,3736,0.605903340901719,740,2996,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+CBSACODE,ASDB,6166,6166,1.0,0,0,dropped,low_pos;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+CBSANAME,ASDB,6166,5070,0.822251054168018,0,0,dropped,low_pos;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+CBSATYPE,ASDB,6166,6166,1.0,0,0,dropped,low_pos;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+CHABSYS,ASDB,6166,3736,0.605903340901719,796,2940,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+CHAPSYS,ASDB,6166,3736,0.605903340901719,703,3033,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+CHCARSYS,ASDB,6166,3736,0.605903340901719,799,2937,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+CHISYS,ASDB,6166,3736,0.605903340901719,313,3423,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+CHTHSYS,ASDB,6166,3736,0.605903340901719,830,2906,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+CICBD,ASDB,6166,3736,0.605903340901719,2,3019,dropped,low_pos;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+CICHOS,ASDB,6166,3736,0.605903340901719,897,2839,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+CLSCIC,ASDB,6166,134,0.0217320791436912,134,0,dropped,low_obs;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+CMNGTSYS,ASDB,6166,3736,0.605903340901719,617,3119,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+COFVSYS,ASDB,6166,3736,0.605903340901719,969,2767,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+COMPSYS,ASDB,6166,3736,0.605903340901719,702,3034,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+COTYPED,ASDB,6166,235,0.0381122283490107,40,195,dropped,low_obs;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+COUTRSYS,ASDB,6166,3736,0.605903340901719,761,2975,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+CPHOSYS,ASDB,6166,3736,0.605903340901719,98,3638,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+CPPCT,ASDB,6166,2850,0.462212131041194,89,2496,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+CPREVSYS,ASDB,6166,3736,0.605903340901719,819,2917,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+CTFTE,ASDB,6166,2748,0.445669802140772,210,995,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+CTSCNHOS,ASDB,6166,3736,0.605903340901719,3124,612,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+CWELLSYS,ASDB,6166,3736,0.605903340901719,784,2952,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+DCTOT,ASDB,6166,6166,1.0,3,1,dropped,low_pos;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+DCTOTH,ASDB,6166,323,0.0523840415180019,0,1,dropped,low_obs;low_pos;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+DENTSSYS,ASDB,6166,3736,0.605903340901719,631,3105,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+DPPSYS,ASDB,6166,3736,0.605903340901719,903,2833,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+DRADFHOS,ASDB,6166,3736,0.605903340901719,2161,1575,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+EBCTHOS,ASDB,6166,3736,0.605903340901719,298,3438,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+EDMCHG,ASDB,6166,3015,0.488971780733052,243,2772,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+EFTLAB,ASDB,6166,6166,1.0,2909,3257,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+EFTRAD,ASDB,6166,6166,1.0,2909,3257,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+EICUHOS,ASDB,6166,3736,0.605903340901719,536,3200,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+EMDEPHOS,ASDB,6166,3736,0.605903340901719,3066,670,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+EMSSSYS,ASDB,6166,3736,0.605903340901719,637,3099,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ENBSYS,ASDB,6166,3736,0.605903340901719,710,3026,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ENDOAHOS,ASDB,6166,3736,0.605903340901719,1097,2639,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ENDOCHOS,ASDB,6166,3736,0.605903340901719,2509,1227,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ENDOEHOS,ASDB,6166,3736,0.605903340901719,1068,2668,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ENDORHOS,ASDB,6166,3736,0.605903340901719,1581,2155,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ENDOUHOS,ASDB,6166,3736,0.605903340901719,1461,2275,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ENRSYS,ASDB,6166,3736,0.605903340901719,726,3010,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+EPTLAB,ASDB,6166,6166,1.0,2907,3259,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+EPTRAD,ASDB,6166,6166,1.0,2907,3259,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+EQMODSYS,ASDB,6166,3736,0.605903340901719,24,3712,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ESWLSYS,ASDB,6166,3736,0.605903340901719,711,3025,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+FFDMSYS,ASDB,6166,3736,0.605903340901719,753,2983,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+FITCSYS,ASDB,6166,3736,0.605903340901719,751,2985,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+FOUNDSYS,ASDB,6166,3736,0.605903340901719,137,3599,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+FRTCSYS,ASDB,6166,3736,0.605903340901719,567,3169,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+FSERSYS,ASDB,6166,3736,0.605903340901719,459,3277,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+FTECIC,ASDB,6166,1178,0.19104768083036,45,852,dropped,low_obs;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+FTECLAB,ASDB,6166,6166,1.0,254,1107,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+FTECRAD,ASDB,6166,6166,1.0,151,1009,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+FTED,ASDB,6166,3117,0.505514109633474,210,1376,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+FTELAB,ASDB,6166,3117,0.505514109633474,113,594,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+FTERAD,ASDB,6166,3117,0.505514109633474,60,491,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+FTLAB,ASDB,6166,6166,1.0,355,1160,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+FTRAD,ASDB,6166,6166,1.0,253,1069,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+GENSYS,ASDB,6166,3736,0.605903340901719,694,3042,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+GERSVSYS,ASDB,6166,3736,0.605903340901719,879,2857,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+GNTCSYS,ASDB,6166,3736,0.605903340901719,891,2845,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+GPWWSYS,ASDB,6166,3736,0.605903340901719,42,3694,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+HARTSYS,ASDB,6166,3736,0.605903340901719,501,3235,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+HEMOSYS,ASDB,6166,3736,0.605903340901719,680,3056,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+HLINSYS,ASDB,6166,479,0.077684073953941,479,0,dropped,low_obs;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+HLTHCSYS,ASDB,6166,3736,0.605903340901719,822,2914,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+HLTHFSYS,ASDB,6166,3736,0.605903340901719,840,2896,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+HLTHSSYS,ASDB,6166,3736,0.605903340901719,803,2933,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+HLTRSYS,ASDB,6166,3736,0.605903340901719,905,2831,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+HOMEHSYS,ASDB,6166,3736,0.605903340901719,1165,2571,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+HOMEPSYS,ASDB,6166,3736,0.605903340901719,292,3444,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+HOSPBD,ASDB,6166,6166,1.0,0,2,dropped,low_pos;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+HOSPCSYS,ASDB,6166,3736,0.605903340901719,991,2745,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ICARSYS,ASDB,6166,3736,0.605903340901719,725,3011,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ICFSYS,ASDB,6166,3736,0.605903340901719,392,3344,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ICLABHOS,ASDB,6166,3736,0.605903340901719,1404,2332,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ICUCHG,ASDB,6166,3132,0.507946805060006,142,2990,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+IGRTSYS,ASDB,6166,3736,0.605903340901719,838,2898,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+IMPRSYS,ASDB,6166,3736,0.605903340901719,853,2883,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+IMRIHOS,ASDB,6166,3736,0.605903340901719,236,3500,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+IMRTSYS,ASDB,6166,3736,0.605903340901719,832,2904,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+IPALSYS,ASDB,6166,3736,0.605903340901719,426,3310,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+IPASYS,ASDB,6166,3736,0.605903340901719,206,3530,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ISMSYS,ASDB,6166,3736,0.605903340901719,714,3022,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+JNTCTR,ASDB,6166,863,0.139961076873175,239,624,dropped,low_obs;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+KDNYSYS,ASDB,6166,3736,0.605903340901719,609,3127,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+LABFTE,ASDB,6166,2613,0.423775543301979,264,1808,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+LBEDLA,ASDB,6166,314,0.0509244242620824,0,0,dropped,low_obs;low_pos;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+LBEDSA,ASDB,6166,3614,0.586117418099254,0,14,dropped,low_pos;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+LGRPSYS,ASDB,6166,509,0.0825494648070062,509,0,dropped,low_obs;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+LINGSYS,ASDB,6166,3736,0.605903340901719,599,3137,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+LIVRSYS,ASDB,6166,3736,0.605903340901719,445,3291,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+LOCTRCLI,ASDB,6166,2962,0.480376256892637,1045,1917,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+LOCTRCNA,ASDB,6166,2962,0.480376256892637,1252,1710,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+LOCTRNI,ASDB,6166,2962,0.480376256892637,566,2396,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+LOCTRPSN,ASDB,6166,2962,0.480376256892637,1900,1062,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+LUNGSYS,ASDB,6166,3736,0.605903340901719,306,3430,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+MAMMSSYS,ASDB,6166,3736,0.605903340901719,743,2993,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+MEALSSYS,ASDB,6166,3736,0.605903340901719,292,3444,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+MEDADN,ASDB,6166,126,0.0204346415828738,126,0,dropped,low_obs;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+MEDHME,ASDB,6166,3113,0.504865390853065,616,2497,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+MEDHSE,ASDB,6166,3048,0.494323710671424,1238,1810,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+MEDOPHOS,ASDB,6166,3736,0.605903340901719,730,3006,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+MEDSUBHOS,ASDB,6166,3736,0.605903340901719,619,3117,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+MEGSYS,ASDB,6166,3736,0.605903340901719,267,3469,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+MMCSYS,ASDB,6166,392,0.0635744404800519,392,0,dropped,low_obs;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+MOHSSYS,ASDB,6166,3736,0.605903340901719,776,2960,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+MRIHOS,ASDB,6166,3736,0.605903340901719,2602,1134,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+MSCTGHOS,ASDB,6166,3736,0.605903340901719,2393,1343,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+MSCTHOS,ASDB,6166,3736,0.605903340901719,1751,1985,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+MSICBD,ASDB,6166,3736,0.605903340901719,10,1563,dropped,low_pos;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+MSICHOS,ASDB,6166,3736,0.605903340901719,2253,1483,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+MSOSYS,ASDB,6166,3736,0.605903340901719,100,3636,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+NEROSYS,ASDB,6166,3736,0.605903340901719,801,2935,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+NICSYS,ASDB,6166,3736,0.605903340901719,870,2866,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+NINTSYS,ASDB,6166,3736,0.605903340901719,698,3038,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+NUTRPSYS,ASDB,6166,3736,0.605903340901719,662,3074,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+OBSYS,ASDB,6166,3736,0.605903340901719,857,2879,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+OCCHSSYS,ASDB,6166,3736,0.605903340901719,829,2907,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ONCOLSYS,ASDB,6166,3736,0.605903340901719,851,2885,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+OPCENSYS,ASDB,6166,3736,0.605903340901719,887,2849,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+OPHOSSYS,ASDB,6166,3736,0.605903340901719,666,3070,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+OPHOSYS,ASDB,6166,3736,0.605903340901719,224,3512,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+OPSRGSYS,ASDB,6166,3736,0.605903340901719,635,3101,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ORPMSYS,ASDB,6166,3736,0.605903340901719,701,3035,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ORTOSYS,ASDB,6166,3736,0.605903340901719,718,3018,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+OSMGSYS,ASDB,6166,284,0.0460590334090172,284,0,dropped,low_obs;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+OTBONSYS,ASDB,6166,3736,0.605903340901719,545,3191,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+OTHCRSYS,ASDB,6166,3736,0.605903340901719,248,3488,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+OTHIC,ASDB,6166,290,0.0470321115796302,0,0,dropped,low_obs;low_pos;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+OTHICBD,ASDB,6166,3736,0.605903340901719,1,3375,dropped,low_pos;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+OTHIMSYS,ASDB,6166,358,0.058060330846578,358,0,dropped,low_obs;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+OTHISYS,ASDB,6166,3736,0.605903340901719,566,3170,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+OTHLTSYS,ASDB,6166,3736,0.605903340901719,237,3499,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+OTHTSYS,ASDB,6166,3736,0.605903340901719,746,2990,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+OTOTHSYS,ASDB,6166,3736,0.605903340901719,488,3248,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PAINSYS,ASDB,6166,3736,0.605903340901719,817,2919,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PALSYS,ASDB,6166,3736,0.605903340901719,829,2907,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PATEDHOS,ASDB,6166,3736,0.605903340901719,2015,1721,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PATRPSYS,ASDB,6166,3736,0.605903340901719,646,3090,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PCARDSYS,ASDB,6166,3736,0.605903340901719,652,3084,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PCASYS,ASDB,6166,3736,0.605903340901719,632,3104,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PCDEPSYS,ASDB,6166,3736,0.605903340901719,954,2782,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PCLABHOS,ASDB,6166,3736,0.605903340901719,154,3582,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PDISSYS,ASDB,6166,3736,0.605903340901719,739,2997,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PEDBD,ASDB,6166,3736,0.605903340901719,51,2817,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PEDCSHOS,ASDB,6166,3736,0.605903340901719,134,3602,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PEDEHOS,ASDB,6166,3736,0.605903340901719,159,3577,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PEDHOS,ASDB,6166,3736,0.605903340901719,1304,2432,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PEDICBD,ASDB,6166,3736,0.605903340901719,5,3445,dropped,low_pos;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+PEDICHOS,ASDB,6166,3736,0.605903340901719,338,3398,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PELABHOS,ASDB,6166,3736,0.605903340901719,140,3596,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PEMERSYS,ASDB,6166,3736,0.605903340901719,592,3144,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PETCTHOS,ASDB,6166,3736,0.605903340901719,904,2832,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PETSYS,ASDB,6166,3736,0.605903340901719,760,2976,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PHYSYS,ASDB,6166,378,0.0613039247486215,378,0,dropped,low_obs;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+PPNSYS,ASDB,6166,3736,0.605903340901719,645,3091,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PPOSTSYS,ASDB,6166,3736,0.605903340901719,791,2945,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PSCISSYS,ASDB,6166,3736,0.605903340901719,234,3502,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PSPISYS,ASDB,6166,3736,0.605903340901719,758,2978,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PSSOCSYS,ASDB,6166,3736,0.605903340901719,636,3100,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PSYCASYS,ASDB,6166,3736,0.605903340901719,684,3052,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PSYEDHOS,ASDB,6166,3736,0.605903340901719,946,2790,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PSYEMSYS,ASDB,6166,3736,0.605903340901719,823,2913,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PSYGRSYS,ASDB,6166,3736,0.605903340901719,807,2929,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PSYLSSYS,ASDB,6166,3736,0.605903340901719,828,2908,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PSYOISYS,ASDB,6166,3736,0.605903340901719,707,3029,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PSYOPSYS,ASDB,6166,3736,0.605903340901719,934,2802,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PSYPHASYS,ASDB,6166,3736,0.605903340901719,583,3153,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PSYPHCSYS,ASDB,6166,3736,0.605903340901719,405,3331,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PSYSYS,ASDB,6166,3736,0.605903340901719,874,2862,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PSYTRASYS,ASDB,6166,3736,0.605903340901719,322,3414,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PSYTRPSYS,ASDB,6166,3736,0.605903340901719,215,3521,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PTLAB,ASDB,6166,6166,1.0,763,1747,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PTONSYS,ASDB,6166,3736,0.605903340901719,311,3425,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+PTRAD,ASDB,6166,6166,1.0,493,1429,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+RADFTE,ASDB,6166,2659,0.431235809276679,285,1584,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+RADMCHI,ASDB,6166,3736,0.605903340901719,77,3659,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+RASTSYS,ASDB,6166,3736,0.605903340901719,665,3071,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+RBOTSYS,ASDB,6166,3736,0.605903340901719,420,3316,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+REDSHOS,ASDB,6166,3736,0.605903340901719,1078,2658,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+REHABSYS,ASDB,6166,3736,0.605903340901719,906,2830,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+RETIRSYS,ASDB,6166,3736,0.605903340901719,227,3509,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+RHBOPSYS,ASDB,6166,3736,0.605903340901719,765,2971,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ROBOSYS,ASDB,6166,3736,0.605903340901719,779,2957,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+RPRSSYS,ASDB,6166,3736,0.605903340901719,625,3111,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+RSIMSYS,ASDB,6166,3736,0.605903340901719,754,2982,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+RURLSYS,ASDB,6166,3736,0.605903340901719,473,3263,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+SCEDL,ASDB,6166,2836,0.459941615309763,1525,1311,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+SCNED,ASDB,6166,3131,0.507784625364904,1766,260,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+SCTRN,ASDB,6166,2836,0.459941615309763,2514,322,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+SLEPSYS,ASDB,6166,3736,0.605903340901719,870,2866,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+SMGRPSYS,ASDB,6166,475,0.0770353551735323,475,0,dropped,low_obs;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+SNSYS,ASDB,6166,3736,0.605903340901719,602,3134,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+SOCED,ASDB,6166,2907,0.471456373662018,1560,1347,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+SOCNED,ASDB,6166,2907,0.471456373662018,1676,1231,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+SOCTRN,ASDB,6166,2907,0.471456373662018,2415,492,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+SOCWKSYS,ASDB,6166,3736,0.605903340901719,626,3110,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+SPCICBD,ASDB,6166,3736,0.605903340901719,1,3140,dropped,low_pos;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+SPCICHOS,ASDB,6166,3736,0.605903340901719,771,2965,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+SPECTHOS,ASDB,6166,3736,0.605903340901719,1440,2296,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+SPHSSYS,ASDB,6166,3736,0.605903340901719,253,3483,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+SPORTSYS,ASDB,6166,3736,0.605903340901719,906,2830,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+SRADHOS,ASDB,6166,3736,0.605903340901719,852,2884,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+STRCSYS,ASDB,6166,3736,0.605903340901719,753,2983,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+SUPPGSYS,ASDB,6166,3736,0.605903340901719,807,2929,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+SWBDSYS,ASDB,6166,3736,0.605903340901719,422,3314,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+SYSADDR,ASDB,6166,4174,0.676938047356471,0,0,dropped,low_pos;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+SYSAREA,ASDB,6166,4174,0.676938047356471,0,0,dropped,low_pos;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+SYSCITY,ASDB,6166,4174,0.676938047356471,0,0,dropped,low_pos;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+SYSID,ASDB,6166,4174,0.676938047356471,0,0,dropped,low_pos;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+SYSNAME,ASDB,6166,4174,0.676938047356471,0,0,dropped,low_pos;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+SYSST,ASDB,6166,4174,0.676938047356471,0,0,dropped,low_pos;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+SYSTELN,ASDB,6166,4174,0.676938047356471,0,0,dropped,low_pos;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+SYSTEM_PRIMARY_CONTACT,ASDB,6166,4165,0.675478430100551,0,0,dropped,low_pos;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+SYSTITLE,ASDB,6166,4165,0.675478430100551,0,0,dropped,low_pos;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+SYSZIP,ASDB,6166,4174,0.676938047356471,0,0,dropped,low_pos;low_zero;,False,masking; similarity; module_scoring,Screened out during variable filtering.
+TCTOT,ASDB,6166,2852,0.462536490431398,169,1486,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+TEENSSYS,ASDB,6166,3736,0.605903340901719,650,3086,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+TISUSYS,ASDB,6166,3736,0.605903340901719,600,3136,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+TOBSYS,ASDB,6166,3736,0.605903340901719,797,2939,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+TPORTSYS,ASDB,6166,3736,0.605903340901719,570,3166,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+TRAUMSYS,ASDB,6166,3736,0.605903340901719,701,3035,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ULTSNHOS,ASDB,6166,3736,0.605903340901719,3053,683,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+URGCCSYS,ASDB,6166,3736,0.605903340901719,1100,2636,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+VCMMSYS,ASDB,6166,3736,0.605903340901719,632,3104,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+VLAB,ASDB,6166,2654,0.430424910801168,346,1356,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+VOLSVSYS,ASDB,6166,3736,0.605903340901719,641,3095,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+VRAD,ASDB,6166,2654,0.430424910801168,290,1154,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+VRCSSYS,ASDB,6166,3736,0.605903340901719,629,3107,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+VWRKSYS,ASDB,6166,3736,0.605903340901719,643,3093,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+WMGTSYS,ASDB,6166,3736,0.605903340901719,734,3002,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+WOMHCSYS,ASDB,6166,3736,0.605903340901719,846,2890,kept,,True,masking; similarity; module_scoring; stable_set,Retained in observed-data structural workflow.
+ADCOST,IT,6166,2700,0.437885176775868,629,0,dropped,low_zero;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+AIBILL,IT,6166,1952,0.316574764839442,673,1279,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+AICLOTH,IT,6166,1952,0.316574764839442,580,1372,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+AICLOTH_DESC,IT,6166,3110,0.504378851767759,0,0,dropped,low_pos;low_zero;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+AIDNK,IT,6166,1952,0.316574764839442,2,1950,dropped,low_pos;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+AIMHEA,IT,6166,1952,0.316574764839442,649,1303,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+AINOTA,IT,6166,1952,0.316574764839442,13,1939,dropped,low_pos;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+AIPOTH,IT,6166,1952,0.316574764839442,465,1487,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+AIPOTH_DESC,IT,6166,3110,0.504378851767759,0,0,dropped,low_pos;low_zero;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+AIPRED,IT,6166,2913,0.472429451832631,1092,0,dropped,low_zero;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+AIRECT,IT,6166,1952,0.316574764839442,830,1122,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+AIRFOL,IT,6166,1952,0.316574764839442,1611,341,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+AISCHE,IT,6166,1952,0.316574764839442,903,1049,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+AITRAJ,IT,6166,1952,0.316574764839442,1815,137,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+AMICDK,IT,6166,2813,0.456211482322413,720,2093,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+AMICEHR,IT,6166,2813,0.456211482322413,724,2089,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+AMICFF,IT,6166,2813,0.456211482322413,360,2453,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+AMICHIE,IT,6166,2813,0.456211482322413,183,2630,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+AMICNES,IT,6166,2813,0.456211482322413,491,2322,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+AMICPS,IT,6166,2813,0.456211482322413,630,2183,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+ATEFCA,IT,6166,2989,0.484755108660396,2290,699,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+CDRDK,IT,6166,2861,0.463996107687318,485,2376,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+CDREHR,IT,6166,2861,0.463996107687318,1214,1647,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+CDRFF,IT,6166,2861,0.463996107687318,473,2388,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+CDRHIE,IT,6166,2861,0.463996107687318,282,2579,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+CDRNES,IT,6166,2861,0.463996107687318,450,2411,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+CDRPS,IT,6166,2861,0.463996107687318,593,2268,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+CIAOUT,IT,6166,2986,0.484268569575089,2237,0,dropped,low_zero;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+CNTRTCST,IT,6166,2643,0.428640934155044,394,0,dropped,low_zero;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+COMPCDR,IT,6166,1144,0.185533571196886,534,610,dropped,low_obs;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+COSTCDR,IT,6166,768,0.124554005838469,486,282,dropped,low_obs;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+COSTECR,IT,6166,768,0.124554005838469,494,274,dropped,low_obs;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+COSTERL,IT,6166,768,0.124554005838469,375,393,dropped,low_obs;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+COSTIRR,IT,6166,768,0.124554005838469,381,387,dropped,low_obs;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+COSTPHR,IT,6166,768,0.124554005838469,503,265,dropped,low_obs;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+COSTSSR,IT,6166,768,0.124554005838469,447,321,dropped,low_obs;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+CUSTINT,IT,6166,2675,0.433830684398313,727,0,dropped,low_zero;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+DNEXCDR,IT,6166,1058,0.171586117418099,622,436,dropped,low_obs;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+ECRHIE,IT,6166,2904,0.470969834576711,341,2563,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+ECRNES,IT,6166,2904,0.470969834576711,518,2386,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+EQUERY,IT,6166,2901,0.470483295491404,2185,716,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+ERLHIE,IT,6166,2919,0.473402530003244,513,2406,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+ERLNES,IT,6166,2919,0.473402530003244,116,2803,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+HCUHIE,IT,6166,2852,0.462536490431398,114,2738,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+HCUNES,IT,6166,2852,0.462536490431398,350,2502,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+IIRHIE,IT,6166,2946,0.477781381771002,609,2337,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+IIRNES,IT,6166,2946,0.477781381771002,75,2871,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+MAILRCV,IT,6166,2976,0.482646772624067,1116,0,dropped,low_zero;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+MAILSND,IT,6166,3000,0.48653908530652,939,0,dropped,low_zero;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+MLACCU,IT,6166,1872,0.303600389231268,879,0,dropped,low_zero;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+MLBIAS,IT,6166,1916,0.310736295815764,654,0,dropped,low_zero;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+MLDEV,IT,6166,1949,0.316088225754136,1600,349,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+MLDNK,IT,6166,1949,0.316088225754136,18,1931,dropped,low_pos;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+MLPUBD,IT,6166,1949,0.316088225754136,84,1865,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+MLSED,IT,6166,1949,0.316088225754136,978,971,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+MLTHD,IT,6166,1949,0.316088225754136,1051,898,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+NOCAPRCDR,IT,6166,1596,0.258838793383068,656,940,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+NOCAPSCDR,IT,6166,478,0.0775218942588388,295,183,dropped,low_obs;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+ONBPROCDR,IT,6166,925,0.15001621796951,324,601,dropped,low_obs;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+OSNBHIE,IT,6166,1772,0.287382419721051,1325,447,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+PEFAPIDNK,IT,6166,3087,0.500648718780409,124,2963,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+PEFAPIIS,IT,6166,3087,0.500648718780409,2443,644,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+PEFAPINO,IT,6166,3087,0.500648718780409,476,2611,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+PEFAPIOS,IT,6166,3087,0.500648718780409,2068,1019,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+PEFAPIS,IT,6166,3066,0.497242945183263,1039,2027,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+PHIOUT,IT,6166,2964,0.480700616282841,1293,0,dropped,low_zero;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+PHRHIE,IT,6166,2903,0.470807654881609,434,2469,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+PHRNES,IT,6166,2903,0.470807654881609,346,2557,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+PTEFCA,IT,6166,2239,0.363120337333766,660,0,dropped,low_zero;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+RELINFCDR,IT,6166,520,0.0843334414531301,305,215,dropped,low_obs;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+SCTOOL,IT,6166,2131,0.345604930262731,861,0,dropped,low_zero;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+SHIEC,IT,6166,2886,0.468050600064872,162,2724,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+SHSRLHIE,IT,6166,2851,0.462374310736296,41,0,dropped,low_zero;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.
+SSRHIE,IT,6166,2944,0.477457022380798,546,2398,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+SSRNES,IT,6166,2944,0.477457022380798,138,2806,kept,,True,response_indicator; weighting_candidate; masking; similarity; stable_set,Retained in observed-data structural workflow.
+VOCABCDR,IT,6166,588,0.0953616607200778,221,367,dropped,low_obs;,False,response_indicator; weighting_candidate; masking; similarity,Screened out during variable filtering.

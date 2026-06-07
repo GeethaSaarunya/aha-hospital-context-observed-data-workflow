@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the software archive and the associated manuscript."
+title: "Making Hospital Context Visible to Support Learning Health Systems: observed-data workflow repository"
+type: software
+authors:
+  - family-names: "Saarunya"
+    given-names: "Geetha"
+    affiliation: "University of Minnesota"
+version: 0.1.0
+date-released: 2026-06-06
+license: MIT
+repository-code: "https://github.com/REPLACE_WITH_USERNAME/aha-hospital-context-workflow"
+abstract: >
+  Public code-and-metadata companion repository for a workflow paper using linked
+  national survey and information technology data to derive a coarse hospital-context layer.
+keywords:
+  - learning health systems
+  - hospital context
+  - observed-data workflow
+  - acute care
+  - AHA

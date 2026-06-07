@@ -1,0 +1,3 @@
+"figure","caption"
+"Figure 1","Summary of the remediated weighted observed-data pipeline. Panel A shows the hospital analysis flow from the full linked frame to assigned hospitals. Panel B shows the variable-filtering sequence from selected inputs to final score dimensions. Panel C shows final module sizes after tiny-module absorption. Panel D shows hospital profile sizes under the selected K = 3 solution."
+"Figure 2","Heatmap of mean module scores by assigned hospital profile. Tile shading is rescaled within each score dimension to improve visual comparability, while overlaid labels display the raw mean scores. The final clustering solution should be interpreted as a coarse descriptive grouping rather than a detailed national taxonomy."

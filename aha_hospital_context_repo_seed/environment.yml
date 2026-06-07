@@ -1,0 +1,14 @@
+name: aha-hospital-context-workflow
+channels:
+  - conda-forge
+dependencies:
+  - r-base=4.4
+  - r-ggplot2
+  - r-gridextra
+  - r-cluster
+  - r-glmnet
+  - r-dbi
+  - duckdb
+  - python=3.11
+  - pandas
+  - pip

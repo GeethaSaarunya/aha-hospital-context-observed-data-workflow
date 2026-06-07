@@ -1,0 +1,6 @@
+logical_input_id,expected_local_location,source_vendor,source_product,source_year,used_in_pipeline,publicly_redistributed_in_repo,notes
+aha_asdb_2023,data/restricted/aha_asdb_2023.<ext>,American Hospital Association,Annual Survey Database (ASDB),2023,Yes,No,Licensed input. Obtain independently under AHA terms. See README for restrictions.
+aha_it_2023,data/restricted/aha_it_2023.<ext>,American Hospital Association,Information Technology Supplement,2023,Yes,No,Licensed input. Obtain independently under AHA terms.
+selected_asdb_profile_vars,metadata/selected_asdb_profile_vars.csv,Generated during preprocessing,Selected variable list,2023,Yes,Template only,Create from authorized local preprocessing outputs or populate manually.
+selected_it_profile_vars,metadata/selected_it_profile_vars.csv,Generated during preprocessing,Selected IT variable list,2023,Yes,Template only,Create from authorized local preprocessing outputs or populate manually.
+project_config,metadata/project_config.rds,Local project configuration,Path and directory map,N/A,Yes,Template only,Not included because it contains local path assumptions.
