@@ -1,10 +1,11 @@
 cff-version: 1.2.0
+title: "Making Hospital Context Visible to Support Learning Health Systems: Repository for observed-data workflow, metadata, and manuscript outputs"
 message: "If you use this repository, please cite the software archive and the associated manuscript."
-title: "Making Hospital Context Visible to Support Learning Health Systems: observed-data workflow repository"
 type: software
+version: 1.0.1
 authors:
-  - family-names: "Saarunya"
-    given-names: "Geetha"
+  - family-names: Saarunya
+    given-names: Geetha 
     affiliation: "University of Minnesota"
 version: 0.1.0
 date-released: 2026-06-06
